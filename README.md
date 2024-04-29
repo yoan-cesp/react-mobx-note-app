@@ -1,2 +1,2 @@
 # react-mobx-note-app
-React note app example to showcasereact-mobx library
+React note app example to showcase react-mobx library
